@@ -1,0 +1,1 @@
+{"name": "Future You", "short_name": "Future You", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#f4f5ef", "theme_color": "#102c26", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}]}
